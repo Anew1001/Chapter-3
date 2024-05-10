@@ -23,7 +23,7 @@ import java.util.Map;
 
 public class PlaceholderFragment extends Fragment {
 
-    private static final int FRIEND_NUMBER = 10;
+    private static final int FRIEND_NUMBER = 3;
 
     private static int FRAGMENT_COUNT = 0;
 
